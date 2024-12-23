@@ -1,0 +1,13 @@
+#box {
+    width: 200px;
+    height: 200px;
+    background: blue;
+}
+
+#box:hover {
+    background: red;
+}
+
+#box:active {
+    background: green;
+}
